@@ -1,4 +1,4 @@
-class personagem {
+export class personagem {
     nome: string = "";
     classe: string = "";
     raca: string = "";
